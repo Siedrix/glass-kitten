@@ -7,6 +7,7 @@
     "passport": ">= 0.0.0",
     "passport-google": ">= 0.0.0",
     "googleapis": ">= 0.0.0",
-    "passport-oauth": "~0.1.15"
+    "passport-oauth": "~0.1.15",
+    "passport-google-oauth" : "*"
   }
 }
